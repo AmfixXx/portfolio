@@ -4,6 +4,12 @@ Projekt edukacyjny w toku. Środowisko Webots, Python, model ramienia UR5e i chw
 
 [Próbka kontrolera i opis jego wymagań](../przyklady/webots/README.md)
 
+## Widok środowiska
+
+![Scena Webots z ramieniem UR5e, chwytakiem i uproszczonym panelem CNC](../materialy/webots/ramie-sekwencja.png)
+
+Zrzut z uruchomionego Webots R2025a, 5 listopada 2026. Scena zawiera model UR5e, chwytak Robotiq, stolik, detal oraz uproszczony panel drzwi CNC. To ilustracja obecnego etapu budowy stanowiska.
+
 ## Cel
 
 Stopniowe poznawanie logiki sterowania przez budowę symulacji obsługi stanowiska CNC.
@@ -21,4 +27,6 @@ Piszę fragmenty kodu jako ćwiczenia, korzystając ze słownego pseudokodu, wyj
 
 ## Aktualna granica projektu
 
-Integracja potwierdzenia otwarcia drzwi z ramieniem i pełny wspólny cykl pozostają w toku. Opis dotyczy symulacji edukacyjnej. Potwierdzenia działania pochodzą z moich prób i zapisu nauki; publikacja tej karty nie obejmowała ponownego uruchomienia symulacji.
+Integracja potwierdzenia otwarcia drzwi z ramieniem i pełny wspólny cykl pozostają w toku. Opis dotyczy symulacji edukacyjnej. Podnoszenie i odkładanie zostało wcześniej potwierdzone podczas moich prób i zapisane w historii nauki.
+
+Podczas ponownego uruchomienia 5 listopada 2026 sprawdzono otwarcie sceny oraz wykonanie bieżącej próby kontrolera drzwi, zakończonej komunikatem przekroczenia limitu czasu. Osobna kopia demonstracyjna z kontrolerem ramienia uruchamianym zewnętrznie połączyła się z Webots. W tej sesji nie potwierdzono pełnej sekwencji pobrania i odłożenia, więc zrzut nie jest dowodem ukończenia cyklu.
