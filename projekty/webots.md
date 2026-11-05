@@ -2,6 +2,8 @@
 
 Projekt edukacyjny w toku. Środowisko Webots, Python, model ramienia UR5e i chwytaka.
 
+[Próbka kontrolera i opis jego wymagań](../przyklady/webots/README.md)
+
 ## Cel
 
 Stopniowe poznawanie logiki sterowania przez budowę symulacji obsługi stanowiska CNC.
