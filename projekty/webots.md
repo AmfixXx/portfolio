@@ -4,11 +4,15 @@ Projekt edukacyjny w toku. Środowisko Webots, Python, model ramienia UR5e i chw
 
 [Próbka kontrolera i opis jego wymagań](../przyklady/webots/README.md)
 
-## Widok środowiska
+## Demonstracja ramienia
 
-![Scena Webots z ramieniem UR5e, chwytakiem i uproszczonym panelem CNC](../materialy/webots/ramie-sekwencja.png)
+![Chwytak zamknięty na detalu podczas sekwencji](../materialy/webots/pobranie-proba.png)
 
-Zrzut z uruchomionego Webots R2025a, 5 listopada 2026. Scena zawiera model UR5e, chwytak Robotiq, stolik, detal oraz uproszczony panel drzwi CNC. To ilustracja obecnego etapu budowy stanowiska.
+![Detal odłożony, chwytak otwarty po sekwencji](../materialy/webots/przenoszenie-proba.png)
+
+Zrzuty z rzeczywistej próby w Webots R2025a, 5 listopada 2026. Kontroler wykonał pozycje podejścia, zamknięcie chwytaka, podniesienie, zmianę pozycji, otwarcie chwytaka i wycofanie. Program zakończył się komunikatem „Koniec symulacji”.
+
+Próbę wykonano w osobnej kopii sceny, z usuniętym panelem CNC, jako samodzielną demonstrację ramienia. Kod kontrolera ramienia pozostał identyczny z kodem ćwiczeń. Z panelem obecnym w scenie pierwsza pozycja nie została osiągnięta. Integracja stanowiska wymaga dalszej pracy.
 
 ## Cel
 
@@ -29,4 +33,4 @@ Piszę fragmenty kodu jako ćwiczenia, korzystając ze słownego pseudokodu, wyj
 
 Integracja potwierdzenia otwarcia drzwi z ramieniem i pełny wspólny cykl pozostają w toku. Opis dotyczy symulacji edukacyjnej. Podnoszenie i odkładanie zostało wcześniej potwierdzone podczas moich prób i zapisane w historii nauki.
 
-Podczas ponownego uruchomienia 5 listopada 2026 sprawdzono otwarcie sceny oraz wykonanie bieżącej próby kontrolera drzwi, zakończonej komunikatem przekroczenia limitu czasu. Osobna kopia demonstracyjna z kontrolerem ramienia uruchamianym zewnętrznie połączyła się z Webots. W tej sesji nie potwierdzono pełnej sekwencji pobrania i odłożenia, więc zrzut nie jest dowodem ukończenia cyklu.
+Podczas ponownego uruchomienia 5 listopada 2026 sprawdzono także bieżącą próbę kontrolera drzwi, zakończoną komunikatem przekroczenia limitu czasu. Kontroler ramienia działa zewnętrznie, z biblioteką Webots w środowisku Pythona. W demonstracji zastosowano jawne połączenie do portu osobnej instancji Webots. Umowne sygnały gotowości CNC w kodzie ramienia zależą nadal od czasu; nie są rzeczywistym potwierdzeniem położenia drzwi.
