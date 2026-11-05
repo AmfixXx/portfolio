@@ -1,4 +1,4 @@
-# Szymon Turkiewicz
+﻿# Szymon Turkiewicz
 
 Inżynier, absolwent Informatyki w Biznesie. Łączę doświadczenie w przygotowaniu produkcji i projektowaniu CAD/CAM z rozwijaniem prototypów cyfrowych. Interesuje mnie tworzenie narzędzi, które rozwiązują konkretne problemy ludzi, oraz robotyka i automatyzacja.
 
@@ -11,7 +11,7 @@ W latach 05.2018–10.2025 pracowałem w Ermet przy WEDM. Zakres pracy obejmowa�
 | [WEDM](projekty/wedm.md) | Szacowanie czasu obróbki na podstawie danych historycznych | Wiedza o procesie, przygotowanie danych i wymagania | Akademicki prototyp |
 | [Robotyka w Webots](projekty/webots.md) | Symulacja ruchu ramienia i drzwi stanowiska CNC | Nauka Pythona i pisanie fragmentów kontrolerów ze wsparciem dydaktycznym | Projekt edukacyjny w toku |
 | [ChoQ](projekty/choq.md) | Aplikacja społecznościowa oparta na wyborach A/B | Koncepcja i decyzje produktowe, wymagania, rozwój z agentami AI | Lokalny prototyp |
-| [IronWoodCraft](projekty/ironwoodcraft.md) | Projekty techniczne i ich prezentacja w internecie | CAD, dokumentacja, prowadzenie strony i uruchomienie sklepu | Rozwijana marka; sklep zawieszony |
+| [IronWoodCraft — CAD i realizacje](projekty/ironwoodcraft.md) | Balustrady dopasowane do obiektu i przygotowanie dokumentacji | CAD, rysunki techniczne, prezentacja oferty w internecie | Realizacje i projekty własne |
 
 ## Jak pracuję
 

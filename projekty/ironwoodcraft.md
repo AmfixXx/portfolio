@@ -1,21 +1,41 @@
-# IronWoodCraft
+# IronWoodCraft — CAD i realizacje konstrukcji stalowych
 
-Marka związana z projektowaniem i wykonaniem konstrukcji stalowych. Mój zakres obejmuje projektowanie CAD, modele i dokumentację techniczną oraz prowadzenie strony i uruchomienie sklepu.
+W IronWoodCraft zajmuję się projektowaniem CAD i przygotowaniem dokumentacji konstrukcji stalowych. Rozwijam również stronę marki i przygotowałem sklep internetowy.
 
-## Narzędzia i materiały
+## Balustrady zewnętrzne — schody, podest i balkon
 
-- Projekty CAD oraz dokumentacja i zestawienia związane z konstrukcjami.
-- Strona na Webflow prezentująca ofertę, projekty, proces współpracy i informacje techniczne.
-- Katalog produktów przygotowany na Shopify.
+![Balustrada schodów i podestu po wykonaniu](../materialy/cad/balustrada-zewnetrzna-realizacja.jpg)
 
-## Potwierdzony stan z 5 listopada 2026 r.
+*Zdjęcie realizacji opublikowane na profilu IronWoodCraft.*
 
-W panelu Webflow dostępny jest projekt strony i kolekcja Blog Posts z 19 wpisami, w tym 16 ze statusem Published i 3 Draft. Liczba wpisów opisuje zawartość CMS; zakres autorstwa treści wymaga osobnego określenia.
+Zakres projektu obejmuje balustrady przy schodach wejściowych, podeście oraz balkonie. Dokumentacja rozdziela poszczególne odcinki konstrukcji i określa ich geometrię, wymiary oraz rozmieszczenie elementów.
 
-Sklep Shopify jest zawieszony. Panel wymaga płatnej reaktywacji, więc obecny zakres weryfikacji nie obejmuje konfiguracji płatności, dostaw ani zamówień. Uruchomienie sklepu jest elementem historii projektu.
+Mój zakres obejmuje pracę w CAD i przygotowanie rysunków. Dokumentacja zawiera także oznaczenia innych uczestników projektu. Fotografia przedstawia rezultat realizacji IronWoodCraft.
 
-## Znaczenie projektu
+## Od geometrii do dokumentacji
 
-To przykład połączenia pracy nad produktem fizycznym z przygotowaniem jego prezentacji i kanału internetowego. Materiały CAD, wizualizacje i karty produktów mają różne etapy przygotowania. Stan wykonania konkretnego modelu należy określać indywidualnie.
+![Rysunek balustrady schodowej z wymiarami i rozmieszczeniem mocowań](../materialy/cad/balustrada-zewnetrzna-rysunek.png)
 
-[Strona marki](https://www.ironwoodcraft.pl/)
+*Rysunek odcinka schodowego i podestu. Układ kółek oraz ozdobnych prętów odpowiada wariantowi widocznemu na zdjęciu.*
+
+Na rysunku widoczne są:
+
+- przebieg poręczy nad schodami i przejście do poziomego odcinka podestu;
+- rozmieszczenie słupków, wypełnienia i elementów mocujących;
+- wymiary montażowe oraz odniesienie konstrukcji do schodów;
+- wskazane wykończenie: ocynk i malowanie proszkowe.
+
+Materiały źródłowe obejmują modele CAD, rysunki złożeniowe balkonu i schodów oraz osobne modele części. Przykład pokazuje przygotowanie informacji potrzebnych do wykonania i montażu konstrukcji dopasowanej do istniejącego obiektu.
+
+## Pozostała działalność
+
+Przygotowuję również modele produktów i ich prezentacje. W materiałach marki występują zarówno wykonane konstrukcje, jak i niezrealizowane koncepcje. W tej karcie przedstawiono realizację i odpowiadający jej wariant dokumentacji.
+
+Stronę marki prowadzę w Webflow. Uruchomienie katalogu i sklepu Shopify było kolejnym elementem prezentowania oferty w internecie.
+
+## Źródła ilustracji
+
+- [Zdjęcie realizacji — Facebook IronWoodCraft](https://www.facebook.com/photo/?fbid=122146510527115021).
+- Rysunek: archiwum projektu IronWoodCraft, plik Schody1.pdf, folder dokumentacji montażowej. Podgląd PNG wygenerowany z pierwszej strony dokumentu.
+
+[Strona IronWoodCraft](https://www.ironwoodcraft.pl/) · [Powrót do portfolio](../README.md)
